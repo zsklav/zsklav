@@ -1,0 +1,28 @@
+{
+  "username": "zsklav",
+  "updatedAt": "2026-10-29T05:35:03.870Z",
+  "updatedLabel": "29 Oct 2026",
+  "prsOpened": 124,
+  "prsMerged": 90,
+  "issuesOpened": 49,
+  "starsEarned": 2,
+  "publicRepos": 46,
+  "followers": 11,
+  "originalReposAnalyzed": 29,
+  "languageBytes": {
+    "JavaScript": 89856,
+    "CSS": 70093,
+    "HTML": 46259,
+    "Python": 805878,
+    "Dockerfile": 2027,
+    "Astro": 12848,
+    "C++": 2482,
+    "TypeScript": 1311298,
+    "PHP": 42864,
+    "OCaml": 22912,
+    "EJS": 549,
+    "Makefile": 834,
+    "Shell": 1659,
+    "Mako": 704
+  }
+}
