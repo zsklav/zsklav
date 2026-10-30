@@ -1,7 +1,7 @@
 {
   "username": "zsklav",
-  "updatedAt": "2026-10-29T08:34:05.103Z",
-  "updatedLabel": "29 Oct 2026",
+  "updatedAt": "2026-10-30T05:56:54.364Z",
+  "updatedLabel": "30 Oct 2026",
   "prsOpened": 124,
   "prsMerged": 90,
   "issuesOpened": 49,
@@ -20,8 +20,8 @@
     "TypeScript": 1311298,
     "PHP": 42864,
     "OCaml": 22912,
-    "Makefile": 834,
     "EJS": 549,
+    "Makefile": 834,
     "Shell": 1659,
     "Mako": 704
   }
